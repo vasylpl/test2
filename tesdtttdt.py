@@ -14,5 +14,5 @@ while True:
     # Dotaz, zda uživatel chce pokračovat
     opakovani = input("Chcete vypočítat další hodnotu? (ano/ne): ")
     if opakovani.lower() != "ano":
-        print("Děkujeme za použití programu. Nashledanou!")
+        print("Děkujeme za použití programu.")
         break
